@@ -9,6 +9,8 @@ Introducing S.T.R.A.W, an acronym for Speech to Text Recognition for Automating 
 
     2.General Public - On an average you spend 60% of your time in virtual world to accomplish just 20% of task. Wouldn't it be    awesome to save time? To control your browser by just your voice commands?
 
+#Architecture Diagram
+
 
 ![Alt text](https://github.com/adityasingh11/STRAWdemo/blob/master/S.T.R.A.W-page-001.jpg)
 
